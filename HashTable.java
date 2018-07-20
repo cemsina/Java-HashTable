@@ -1,6 +1,9 @@
 import java.util.Iterator;
 import java.util.LinkedList;
-
+/**
+* Author : Cemsina Guzel
+* See : https://github.com/cemsina/Java-HashTable/edit/master/HashTable.java
+*/
 public class HashTable<K,V> {
 	private class Entry{
 		private K key;
